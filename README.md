@@ -1,7 +1,7 @@
 # r34_duckduckgo_bang
 I custom rule34 !Bang for duckduckgo
 
-#Installation
+# Installation
 
 1. Since its based on mv3, chrome version 88 or later is required
 
