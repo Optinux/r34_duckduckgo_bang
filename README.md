@@ -11,4 +11,4 @@ I custom rule34 !Bang for duckduckgo
 
 4. Enable developer options and click on "load unpacked"
 
-5. Now just select the folder you extraced your files to and load the extension
+5. Now just select the folder you extracted your files to and load the extension
